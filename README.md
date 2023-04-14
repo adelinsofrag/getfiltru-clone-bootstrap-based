@@ -10,9 +10,9 @@
   - [x] nav  
   - [x] header
   - [x] main
-  - [ ] footer
+  - [x] footer
 - [x] add placeholder assets & lorem ipsum content
-- [ ] add theme colors from source
+- [x] add theme colors from source
 - [x] get assets (from source or others)
 - [ ] refine elements
 - [ ] cleanup
