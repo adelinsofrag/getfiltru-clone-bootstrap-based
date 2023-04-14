@@ -1,0 +1,10 @@
+.custom-image {
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom-image-wrapper {
+  width: 16rem;
+  height: 24rem;
+}
