@@ -1,35 +1,17 @@
-# bootstrap-based
+# Clone based on Bootstrap
 
-## TODOs
+## EN
 
-### EN
+### TODOs
 
-- [x] create base project structure
-- [x] include Bootstrap CDN files
-- [x] implement base layout:
-  - [x] nav  
-  - [x] header
-  - [x] main
-  - [x] footer
-- [x] add placeholder assets & lorem ipsum content
-- [x] add theme colors from source
-- [x] get assets (from source or others)
-- [ ] refine elements
-- [ ] cleanup
-- [ ] deploy
+- Clone the existing repo
+- Review and add missing sections from the clone source
+- Implement a desktop version that resembles the clone source
 
-### RO
+## RO
 
-- [ ] creați structura de bază a proiectului
-- [ ] includeți fișierele CDN ale Bootstrap-ului
-- [ ] implementați aspectul de bază:
-  - [ ] nav
-  - [ ] antet (header)
-  - [ ] conținut principal (main)
-  - [ ] subsol (footer)
-- [ ] adăugați activele substitutive și conținutul Lorem Ipsum
-- [ ] adăugați culorile temei din sursă
-- [ ] obțineți activele (din sursă sau de la alții)
-- [ ] rafinați elementele
-- [ ] curățați
-- [ ] implementați (pe un server)
+### Sarcini de Realizat
+
+- Clonează depozitul existent.
+- Revizuiți și adăugați secțiunile lipsă din sursa clonată.
+- Implementați o versiune desktop care să semene mai mult cu sursa clonată.
